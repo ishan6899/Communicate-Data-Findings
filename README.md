@@ -1,4 +1,3 @@
-# Communicate-Data-Findings
 ## Dataset I Choose
 > I used the Ford GoBike Dataset.
 >  There are 1863721 entries,in our dataset with 20 variables. The datset consists of data from over 12 months from January 2018-December 2018
